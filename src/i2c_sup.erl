@@ -14,6 +14,7 @@
 %%% KIND, either express or implied.
 %%%
 %%%---- END COPYRIGHT ---------------------------------------------------------
+%
 
 -module(i2c_sup).
 
