@@ -15,6 +15,9 @@
 %%%
 %%%---- END COPYRIGHT ---------------------------------------------------------
 
+
+
+%%JAKAKAKAKAKAKKAQKA
 -module(i2c_sup).
 
 -behaviour(supervisor).
